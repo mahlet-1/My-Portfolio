@@ -61,16 +61,16 @@
   }
 
   .about-me h1 {
-    font-size: 1.5rem;
+    font-size: 1.7rem;
   }
 
   .about-me p {
-    font-size: 0.5rem;
+    font-size: 0.95rem;
   }
     
 
   .profile-image img {
-    width: 145px;
-    height: 145px;
+    width: 130px;
+    height: 130px;
   }
 }
