@@ -1,12 +1,14 @@
 # Frontend Developer Portfolio
 
+[🔗 Live Demo](https://my-portofolio-4f7m.vercel.app/)
+
 > A modern and fully responsive personal portfolio showcasing projects, built with a focus on clean architecture, performance, and accessibility.
 
 ## Key Features
 
-- **Component-Driven Architecture:** Built using modular principles ensuring reusability and clean separation of codes.
+- **Component-Driven Architecture:** Built using modular principles ensuring reusability and clean separation of code.
 - **Fluid & Responsive Layouts:** Crafted with CSS Grid and Flexbox for flawless responsiveness across mobile and desktop viewports.
-- **Performance Optimized:** Built with Vite for instant Hot Module Replacement (HMR) and fast asset bundling.
+- **Performance Optimized:** Built with Vite for instant Hot Module Replacement (HMR) and ultra-fast asset bundling.
 
 ## Tech Stack
 
@@ -16,27 +18,26 @@
 - **Design & Prototyping:** Figma (Variable color management, typography scaling, component states)
 
 ### Architecture & Engineering
-- **Data Flow:** Used a uni-directional prop taking data from a centralized data module.
+- **Component Design:** 100% Stateless Functional Components (Pure Components) for predictable rendering and maximum performance.
+- **Data Flow:** Uni-directional prop drilling powered by a centralized data module.
 - **Styling Methodology:** Modular CSS 
 - **Version Control:** Git & GitHub
 
-
 ## Project Structure
 
-portfolio-website/
-├── public/                # Static assets, favicons, and images
-├── src/
-│   ├── assets/            # Local image for export
-│   ├── components/        # Reusable and stateless UI components 
-│   ├── styles/            # Individual components stylesheet
-│   ├── App.jsx            # Main application entry point
-│   ├── data.js            # Centralized data module that holds and exports raw data arrays
-|   ├── index.css          # Global page background and typography
-│   └── main.jsx           # React DOM renderer
+```text
+My-Portofolio/
+├── assets/                # Local images and graphic assets
+├── components/            # Reusable, stateless UI components (Navbar, Hero, etc.)
+├── styles/                # Individual component layout stylesheets
+├── App.jsx                # Main application layout and prop distributor
+├── data.js                # Centralized file hosting raw project data arrays
+├── index.css              # Global page background, typography, and variables
+├── main.jsx               # React DOM root renderer
 ├── index.html             # HTML root document
 ├── package.json           # Project dependencies and scripts
 └── vite.config.js         # Vite configuration
-
+```
 
 ## Getting Started Locally
 
@@ -50,7 +51,7 @@ Make sure you have **Node.js** and **npm** installed on your system.
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/mahlet-1/My-Portofolio.git
-   cd portfolio-website
+   cd My-Portofolio
    ```
 
 2. **Install dependencies:**
@@ -67,4 +68,5 @@ Make sure you have **Node.js** and **npm** installed on your system.
    ```bash
    npm run build
    ```
+
 

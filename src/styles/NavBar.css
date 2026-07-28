@@ -50,8 +50,9 @@
   .navbar {
     flex-direction: column;       
     padding: 1.5 rem 1rem;      
-    gap: 1.5rem;                  
+    gap: 1.5rem;
   }
+
   .Logo
   .nav-links {
     flex-direction: column;       
