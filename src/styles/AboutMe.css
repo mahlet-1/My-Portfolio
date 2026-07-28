@@ -51,16 +51,26 @@
 @media (max-width: 768px) {
   .about-section {
     flex-direction: column;
-    padding: 2rem 1.5rem;
-    gap: 1.5rem;
+    padding: 1.5rem 1rem;
+    gap: 1.25rem;
+    align-items: center;
   }
 
   .about-me {
     text-align: center; 
   }
 
+  .about-me h1 {
+    font-size: 1.5rem;
+  }
+
+  .about-me p {
+    font-size: 0.5rem;
+  }
+    
+
   .profile-image img {
-    width: 150px;
-    height: 150px;
+    width: 145px;
+    height: 145px;
   }
 }
