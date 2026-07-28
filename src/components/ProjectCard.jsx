@@ -6,7 +6,7 @@ export default function ProjectCard(props) {
         <li>{props.description}</li>
         <li>Tech Stack: {props.techStack}</li>
         <li>
-          Link: <a href={props.link} target="_blank" rel="noopener noreferrer">View Project</a>
+         Link: <a href={props.link} target="_blank" rel="noopener noreferrer">View Project</a>
         </li>
       </ul>
     </div>

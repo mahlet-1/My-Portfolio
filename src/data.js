@@ -12,7 +12,7 @@ export const projects = [
     title: "1. AeroTask - Task Management Web",
     description: "AeroTask is a clean, simple task management dashboard I built as part of the TechSkillUp Web Development course. It lets you track your daily tasks, view productivity metrics, and manage your focus for the day.",
     techStack: "HTML, CSS and JavaScript",
-    link: "https://github.com/mahlet-1/AeroTask---Task-Management-Web",
+    link: "https://github.com/mahlet-1/AeroTask---Task-Management",
   },
   {
     id: 2,
