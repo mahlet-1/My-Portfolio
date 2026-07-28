@@ -17,7 +17,7 @@ export const projects = [
   {
     id: 2,
     title: "2. Simple Calculator",
-    description: "A responsiveive web-based calculator that supports light/dark themes, keyboard input, and history tracking." ,
+    description: "A responsive web-based calculator that supports light/dark themes, keyboard input, and history tracking." ,
     techStack: "HTML, CSS and JavaScript",
     link: "https://github.com/mahlet-1/Simple-Calculator",
   },
