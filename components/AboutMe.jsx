@@ -10,7 +10,7 @@ export default function AboutMe() {
       <div className="about-me">
         <h1 className="section-heading">ABOUT ME</h1>
         <p>
-          I am a first-year pre-engineering student from Addis Ababa. I am also a beginner
+          I am a first-year pre-engineering student from Addis Ababa University. I am also a beginner
           graphic designer and front-end developer. I love combining technical work with
           creative visual design to build high-quality and engaging digital projects. I enjoy
           learning new technologies and improving my skills in both design and development.
