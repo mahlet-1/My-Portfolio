@@ -17,13 +17,13 @@ export const projects = [
   {
     id: 2,
     title: "2. Simple Calculator",
-    description: "A resposnsive web-based calculator that supports light/dark themes, keyboard input, and history tracking." ,
+    description: "A responsiveive web-based calculator that supports light/dark themes, keyboard input, and history tracking." ,
     techStack: "HTML, CSS and JavaScript",
     link: "https://github.com/mahlet-1/Simple-Calculator",
   },
   {
     id: 3,
-    title: "3. Tutorial Advertisemnt - Graphics Poster",
+    title: "3. Tutorial Advertisement - Graphics Poster",
     description: "A graphics poster for training classes for instruments being held by Mahibere Kidusan in Addis Ababa. ",
     techStack: "Figma",
     link: "https://www.figma.com/design/g7qoVVWUMbeC1RpmSt0vM9/Untitled?node-id=0-1&t=IKbo2uGfC8hu8kZ1-1" ,
