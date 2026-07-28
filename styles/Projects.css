@@ -1,6 +1,6 @@
 #projects {
   padding: 4rem 2rem;
-  max-width: 1000px;
+  max-width: 1100px;
   margin: 0 auto;
   border-bottom: 1px solid rgba(255, 255, 255, 0.15); 
   margin-bottom: 1rem;
@@ -21,11 +21,11 @@
 }
 
 .project-card {
-  width: 102%;         
+  width: 100%;         
   box-sizing: border-box;
   background: linear-gradient(360deg, #fdfcfc 0%, #4e6892 200%);
   border-radius: 20px;
-  padding: 35px;
+  padding: 32px;
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
 }
 
@@ -53,8 +53,8 @@
 }
 
 .project-card a {
-  color: #5d95f5;           
-  text-decoration: none;
+  color: #0b5cd5;           
+  text-decoration: underline;
   margin: 0;                
 }
 
