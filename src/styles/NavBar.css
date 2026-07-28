@@ -49,12 +49,12 @@
 
   .navbar {
     flex-direction: column;       
-    padding: 1.5 rem 1rem;      
+    padding: 1.5rem 1rem;      
     gap: 1.5rem;
     position: relative;
   }
 
-  .Logo
+  .Logo,
   .nav-links {
     flex-direction: column;       
     align-items: center;         
