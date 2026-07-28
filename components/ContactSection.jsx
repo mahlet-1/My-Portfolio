@@ -2,7 +2,7 @@ import '../styles/ContactSection.css';
 export default function Contact() {
   return (
     <section id="contact" className="contact-section">
-      <h2>WANT TO REACH ME OUT?</h2>
+      <h2>WANT TO REACH OUT?</h2>
       <div className="contact-links">
         <div className="contact-item">
           <span>Email: </span>
