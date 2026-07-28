@@ -27,6 +27,10 @@
 
 @media (max-width: 768px) {
 
+  .hero-section {
+    padding-top: 80px;         
+  }
+
   .hero-content p:first-child {
     font-size: 0.9rem;
   }
