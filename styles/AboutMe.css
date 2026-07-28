@@ -51,8 +51,9 @@
 @media (max-width: 768px) {
   .about-section {
     flex-direction: column;
-    padding: 2rem 1.5rem;
-    gap: 1.5rem;
+    padding: 1.5rem 1rem;
+    gap: 1.25rem;
+    align-items: center;
   }
 
   .about-me {
@@ -60,7 +61,7 @@
   }
 
   .profile-image img {
-    width: 150px;
-    height: 150px;
+    width: 120px;
+    height: 120px;
   }
 }
