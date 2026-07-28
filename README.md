@@ -1,9 +1,9 @@
 # Frontend Developer Portfolio
 
-[🔗 Live Demo](https://my-portofolio-4f7m.vercel.app/)
-
 > A modern and fully responsive personal portfolio showcasing projects, built with a focus on clean architecture, performance, and accessibility.
 
+### 🔗 Links
+* **Live Demo:** [View Live Application](https://my-portofolio-4f7m.vercel.app/)
 ## Key Features
 
 - **Component-Driven Architecture:** Built using modular principles ensuring reusability and clean separation of code.
